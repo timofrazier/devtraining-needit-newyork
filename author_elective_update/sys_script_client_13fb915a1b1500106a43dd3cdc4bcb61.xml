@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Test</name>
+        <order/>
+        <script/>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 20:45:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>13fb915a1b1500106a43dd3cdc4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_client_13fb915a1b1500106a43dd3cdc4bcb61</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 20:45:24</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cb81d8cfdb8f37442f68c5970596191c</instance_id>
+        <instance_name>dev91050</instance_name>
+        <name>sys_script_client_13fb915a1b1500106a43dd3cdc4bcb61</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client"><sys_script_client action="INSERT_OR_UPDATE"><active>true</active><applies_extended>false</applies_extended><condition/><description/><field/><global>true</global><isolate_script>true</isolate_script><messages/><name>Test</name><order/><script/><sys_class_name>sys_script_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-25 20:45:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13fb915a1b1500106a43dd3cdc4bcb61</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_client_13fb915a1b1500106a43dd3cdc4bcb61</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-25 20:45:24</sys_updated_on><table/><type/><ui_type>0</ui_type><view/></sys_script_client></record_update>]]></payload>
+        <payload_hash>1612341952</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>42f61b201b5100106a43dd3cdc4bcbe4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 20:45:24</sys_created_on>
+        <sys_id>2e0c199a1b1500106a43dd3cdc4bcbec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ea44fd0e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 20:45:24</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>660c199a7315001051307097837a1cec</update_guid>
+        <update_guid_history>660c199a7315001051307097837a1cec:1612341952</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-25 20:52:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>23a29d023e824f979562119be5288489</sys_id>
+        <sys_metadata>13fb915a1b1500106a43dd3cdc4bcb61</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_client_13fb915a1b1500106a43dd3cdc4bcb61</sys_update_name>
+        <sys_update_version display_value="sys_script_client_13fb915a1b1500106a43dd3cdc4bcb61">2e0c199a1b1500106a43dd3cdc4bcbec</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-25 20:52:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
